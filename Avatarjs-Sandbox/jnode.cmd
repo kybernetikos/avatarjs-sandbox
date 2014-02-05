@@ -1,0 +1,1 @@
+@java -Djava.library.path=%~dp0lib -jar %~dp0lib\avatar-js.jar
